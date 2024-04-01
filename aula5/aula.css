@@ -1,0 +1,26 @@
+.overflow{
+    border: solid 1px black;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+    width: 100px;
+    height: 110px;
+    overflow: hidden;
+    margin: 5px 10px 12px 15px;
+}
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px 0; 
+}
+.conteudo {
+    border-top: solid 5px red;
+    border-right: solid 10px cyan;
+    border-bottom: solid 7px green;
+    border-left: solid 12px yellow;
+    width: 200px;
+    height: 100px;
+
+    border-radius: 10px;
+}
